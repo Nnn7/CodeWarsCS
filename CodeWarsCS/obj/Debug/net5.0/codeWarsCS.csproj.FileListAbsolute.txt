@@ -1,0 +1,16 @@
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.exe
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.deps.json
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.runtimeconfig.json
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.runtimeconfig.dev.json
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.dll
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\ref\codeWarsCS.dll
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\bin\Debug\net5.0\codeWarsCS.pdb
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.csproj.AssemblyReference.cache
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.AssemblyInfoInputs.cache
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.AssemblyInfo.cs
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.csproj.CoreCompileInputs.cache
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.dll
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\ref\codeWarsCS.dll
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.pdb
+C:\workspace\mp\CodeWarsCS\CodeWarsCS\obj\Debug\net5.0\codeWarsCS.genruntimeconfig.cache
