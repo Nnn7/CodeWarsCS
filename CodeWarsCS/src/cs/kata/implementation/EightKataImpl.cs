@@ -74,6 +74,12 @@ namespace codeWarsCS.src.cs.kata.implementation
             text = text.Replace("0", "O");
             text = text.Replace("1", "I");
             return text;
+            //return text.Replace("5", "S").Replace("0", "O").Replace("1", "I");
+        }
+
+        public int StringToNumber(string str)
+        {
+            return Int32.Parse(str);
         }
     }
 }

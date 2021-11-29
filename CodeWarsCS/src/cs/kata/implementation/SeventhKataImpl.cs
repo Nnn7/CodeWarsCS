@@ -8,5 +8,10 @@ namespace codeWarsCS.src.cs.kata.implementation
 {
     internal class SeventhKataImpl : seventhKata
     {
+        public int SpecialNumber(int number)
+        {
+
+            throw new NotImplementedException();
+        }
     }
 }

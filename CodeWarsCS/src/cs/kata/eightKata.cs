@@ -19,5 +19,7 @@ namespace codeWarsCS.src.cs.kata
         int UniTotal(string str);
 
         string Correct(string text);
+
+        int StringToNumber(String str);
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace codeWarsCS.src.cs.kata
 {
-    internal class seventhKata
+    interface seventhKata
     {
+        int SpecialNumber(int number);
     }
 }
