@@ -16,5 +16,8 @@ namespace codeWarsCS.src.cs.kata
 
         int GetRealFloor(int n);
 
+        int UniTotal(string str);
+
+        string Correct(string text);
     }
 }

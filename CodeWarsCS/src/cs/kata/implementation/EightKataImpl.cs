@@ -54,6 +54,26 @@ namespace codeWarsCS.src.cs.kata.implementation
             return result;
         }
 
+        //-- ASCII Total
+        public int UniTotal(string str)
+        {
+            if (str == "") return 0;
+            int sum = 0;
+            byte[] asciiBytes = Encoding.ASCII.GetBytes(str);
+            for (int i = 0; i < asciiBytes.Length; i++)
+            {
+                sum += asciiBytes[i];
+            }
+            Console.WriteLine(str);
+            return sum;
+        }
 
+        public string Correct(string text)
+        {
+            text = text.Replace("5", "S");
+            text = text.Replace("0", "O");
+            text = text.Replace("1", "I");
+            return text;
+        }
     }
 }
