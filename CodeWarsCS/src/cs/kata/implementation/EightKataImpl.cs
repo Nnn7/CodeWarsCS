@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace codeWarsCS.src.cs.kata.implementation
 {
-    class EightKataImplementation : eightKata
+    class EightKataImpl : eightKata
     {
 
         public int Litres(double time)

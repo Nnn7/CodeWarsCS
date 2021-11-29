@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\mp\\CodeWarsCS\\CodeWarsCS\\CodeWarsCS.csproj",
-      "projectName": "CodeWarsCS",
-      "projectPath": "C:\\workspace\\mp\\CodeWarsCS\\CodeWarsCS\\CodeWarsCS.csproj",
+      "projectUniqueName": "C:\\workspace\\mp\\CodeWarsCS\\CodeWarsCS\\codeWarsCS.csproj",
+      "projectName": "codeWarsCS",
+      "projectPath": "C:\\workspace\\mp\\CodeWarsCS\\CodeWarsCS\\codeWarsCS.csproj",
       "packagesPath": "C:\\Users\\itere\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\mp\\CodeWarsCS\\CodeWarsCS\\obj\\",
       "projectStyle": "PackageReference",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

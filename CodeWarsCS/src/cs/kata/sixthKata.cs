@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace codeWarsCS.src.cs.kata
 {
-    interface eightKata
+    interface sixthKata
     {
-        int Litres(double time);
-        double getVolumeOfCubiod(double length, double width, double height)
-
-
+         string EncryptThis(string input);
     }
 }
