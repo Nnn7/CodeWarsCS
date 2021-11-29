@@ -9,8 +9,12 @@ namespace codeWarsCS.src.cs.kata
     interface eightKata
     {
         int Litres(double time);
-        double getVolumeOfCubiod(double length, double width, double height)
 
+        double GetVolumeOfCubiod(double length, double width, double height);
+
+        string ReversedStrings(string str);
+
+        int GetRealFloor(int n);
 
     }
 }
